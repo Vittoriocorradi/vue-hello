@@ -4,7 +4,8 @@ const { createApp } = Vue;
 createApp({
     data() {
         return {
-            message: 'Il mio primo titolo'
+            message: 'Brown Goose Music Festival 2023',
+            link: 'https://picsum.photos/id/117/700/500'
         }
     }
 }).mount('#app');
